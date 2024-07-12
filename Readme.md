@@ -1,5 +1,5 @@
 
-# Web Scraping exercise 1 
+# Web Scraping exercise 2 
 ## [Offshore Leaks Database](https://offshoreleaks.icij.org/)
 ### To Run the project
 1. Create the virtual environment <br>
